@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\2a51e6f6d21e82d88974d328c1d1db07\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\2a51e6f6d21e82d88974d328c1d1db07\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\zmxySDKALCmini_V1.01450366738902_release.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ef15c1ec67e25b165bb9e8f8e901e39a88206d9">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\ZXing-javase-2.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b98bd7dc64a7a3dbf486f3281dac3cd1e2628968">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\088ce0f849b2703d38cd183fec4cfe46\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\ZXing-core-2.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="62f9f60a68e689540a7be506699949e4ad8cc6eb">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\jackson-core-asl-1.9.5.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af39988dc5ec30dba5f327791676d67501e79f93">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\TencentLocationSDK_v6.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4cc528f813bf413f55f3f46ee73e50efb5b887e6">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\dream-pojo-nd-0.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="971aa3b0d5753ab376d5b1709d5ce55d54600f9c">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\TencentMapSearch_v1.1.7.3207904.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="17990a58afc2d0787ed85411783a4b52b8b91407">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\fastjson-1.1.31.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c173f8e5ce00eb2185078e33874bda9bf96a48a9">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LYY\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\eff6b3f877c998c03147c3688c2d7f2e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\qiniu.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71bcb7ae40719892dfa5b8bfbfe152bf6da9e42d">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\niudan_tg1\niudan_ht\libs\TencentMapSDK_Raster_v_1.2.8_e45bcd0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c93615f03a58ac94af5f7bfad16e4b90317ee817">
+        <dex dex="E:\niudan_tg1\niudan_ht\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+
+</items>

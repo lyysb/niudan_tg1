@@ -1,0 +1,1350 @@
+[
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_bg1.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_bg1.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_buttun_myes.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\buttun_myes.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_63.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\icon_63.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_tx_bg.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_tx_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_merchant_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_merchant_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_cus_select.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\cus_select.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_extension_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_extension_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_1_down.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\main_1_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_order.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_order.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_bus.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_main_img_1.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\main_img_1.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_bg.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_bg1.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\main_btn_bg1.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_mno.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\button_mno.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_region_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_region_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_drive.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\drive.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_card_bd.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_card_bd.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_member.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_member.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\c.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_load_progressbar_style.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\load_progressbar_style.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_memberfive_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_memberfive_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_customprogressdialog.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_up_customerreward.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_up_customerreward.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_niudan.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_niudan.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_carlist.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_carlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_huanchong_icon_bg.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\huanchong_icon_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_add_car.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_add_car.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_car_bd.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_car_bd.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_cno.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\button_cno.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_membertwo_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_membertwo_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_dialog_queren.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\dialog_queren.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_walk.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\walk.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_dialog_get_img.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\dialog_get_img.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_edatalist.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_edatalist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xc_ic13.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\xc_ic13.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_city_line.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\city_line.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_empty_photo.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\empty_photo.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_login.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_login.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_qure.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_custom_qure.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_member_list_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_member_list_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_customer_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_customer_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_update_passward.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_update_passward.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_set.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_set.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout-v11_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_customerlist.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_customerlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c_c.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\c_c.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_suggestion_list_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\suggestion_list_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_list.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_member_list.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_login_up.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_login_up.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_back_down.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_back_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_carinfo.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_carinfo.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_mem_select.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\mem_select.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_sign.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_sign.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pull_to_refresh_arrow.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_statistics.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_statistics.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_set_customerinfo2.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_set_customerinfo2.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_extension.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_extension.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_memberthree_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_memberthree_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_bg.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_include.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_member_shape.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\member_shape.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_selector_plan_btn.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\selector_plan_btn.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_login_down.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_login_down.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progressdialog_bg.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\progressdialog_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_merchant.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_merchant.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_car_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_car_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_customer_location.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_customer_location.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_activity_road_plan.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\activity_road_plan.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_2_down.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\main_2_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_update_phone.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_update_phone.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_2_up.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\main_2_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_face_happy.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\face_happy.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edittext_icon.9.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\edittext_icon.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_buttun_cyes.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\buttun_cyes.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_member_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_member_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_updateprice.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_updateprice.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_set_customerinfo.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_set_customerinfo.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_memberfoure_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_memberfoure_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo_kuang_03.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\photo_kuang_03.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_lay_order_item.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\lay_order_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_regionlist.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_regionlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_1_up.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\main_1_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xian_03.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\xian_03.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_main_bottom_bg.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\main_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_web.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_web.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_header.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_back_up.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_back_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_layout_main.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_main_img_2.xml.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable\\main_img_2.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_txjl_icon.png.flat",
+        "source": "E:\\niudan_tg1\\niudan_ht\\src\\main\\res\\drawable-xhdpi\\img_txjl_icon.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg1\\niudan_ht\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\LYY\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\eff6b3f877c998c03147c3688c2d7f2e\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    }
+]

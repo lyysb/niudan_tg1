@@ -1,0 +1,4 @@
+#Fri Mar 30 17:19:21 CST 2018
+base.0=E\:\\niudan_tg1\\niudan_ht\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
